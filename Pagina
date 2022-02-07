@@ -1,0 +1,64 @@
+ <html>
+    <head>
+    <title>Klever Jose Romero Pealta-202006678</title>
+    </head>
+    <body>
+    <table>
+        <tr>
+        <th scope="col"><h2>Curso</h2></th>
+        <td></td><td></td><td></td>
+        <th scope="col"><h2>Semestre</h2></th>
+        <td></td><td></td><td></td>
+        <th scope="col"><h2>Información</h2></th>
+        </tr>
+
+        <tr>
+        <td>Introducción a la programación 1</td>  
+        <td></td><td></td><td></td>
+        <td>Quinto semestre</td>
+        <td></td><td></td><td></td>
+        <td>Este curso es del segundo semestre</td>
+        </tr>
+
+        <tr>
+        <td>Idioma tecnico 2</td>  
+        <td></td><td></td><td></td>
+        <td>Quinto semestre</td>
+        <td></td><td></td><td></td>
+        <td>Este curso es del segundo semestre</td>
+        </tr>
+
+        <tr>
+        <td>Logica de sistemas</td>  
+        <td></td><td></td><td></td>
+        <td>Quinto semestre</td>
+        <td></td><td></td><td></td>
+        <td>Este curso es del tercer semestre</td>
+        </tr>
+
+        <tr>
+        <td>Matematica Intermedia 2</td>  
+        <td></td><td></td><td></td>
+        <td>Quinto semestre</td>
+        <td></td><td></td><td></td>
+        <td>Este curso es del cuarto semestre</td>
+        </tr>
+
+        <tr>
+        <td>Matematica para Computación 1</td>  
+        <td></td><td></td><td></td>
+        <td>Quinto semestre</td>
+        <td></td><td> </td><td></td>
+        <td>Este curso es del tercer semestre</td>
+        </tr>
+
+        <tr>
+            <td>Estadistica 1</td>  
+            <td></td><td></td><td></td>
+            <td>Quinto semestre</td>
+            <td></td><td></td><td></td>
+            <td>Este curso es del cuarto semestre</td>
+            </tr>
+    </table>
+    </body>
+</html>
